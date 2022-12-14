@@ -1,0 +1,17 @@
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\bin\Debug\net6.0-windows\Fractal Tree.exe
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\bin\Debug\net6.0-windows\Fractal Tree.deps.json
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\bin\Debug\net6.0-windows\Fractal Tree.runtimeconfig.json
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\bin\Debug\net6.0-windows\Fractal Tree.dll
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\bin\Debug\net6.0-windows\Fractal Tree.pdb
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal_Tree.Form1.resources
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.AssemblyInfo.cs
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.dll
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\refint\Fractal Tree.dll
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.pdb
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\Fractal Tree.genruntimeconfig.cache
+D:\Visual Studio\Projects\FractalTree-CS\Fractal Tree\Fractal Tree\obj\Debug\net6.0-windows\ref\Fractal Tree.dll
