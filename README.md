@@ -1,5 +1,5 @@
 # FractalTree-CS
- This GitHub repository contains a C# program that generates and prints out a fractal tree using recursion. The program takes input parameters such as the depth and branch angle of the tree, and outputs a graphical representation of the tree using ASCII characters.
+ This GitHub repository contains a C# program that generates and prints out a fractal tree using recursion. The program takes input parameters such as the depth and branch angle of the tree.
 
 The program works by recursively calling a function to draw the branches of the tree. Each branch is split into two smaller branches at a specified angle, and this process is repeated until the desired depth is reached.
 
